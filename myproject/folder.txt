@@ -1,0 +1,46 @@
+Folder PATH listing
+Volume serial number is FCB2-5918
+C:.
+│   db.sqlite3
+│   folder.txt
+│   manage.py
+│   
+├───accounts
+│   │   admin.py
+│   │   apps.py
+│   │   models.py
+│   │   tests.py
+│   │   urls.py
+│   │   views.py
+│   │   __init__.py
+│   │   
+│   ├───migrations
+│   │   │   __init__.py
+│   │   │   
+│   │   └───__pycache__
+│   │           __init__.cpython-312.pyc
+│   │           
+│   ├───templates
+│   │   └───accounts
+│   │           home.html
+│   │           login.html
+│   │           
+│   └───__pycache__
+│           admin.cpython-312.pyc
+│           apps.cpython-312.pyc
+│           models.cpython-312.pyc
+│           __init__.cpython-312.pyc
+│           
+└───myproject
+    │   asgi.py
+    │   settings.py
+    │   urls.py
+    │   wsgi.py
+    │   __init__.py
+    │   
+    └───__pycache__
+            settings.cpython-312.pyc
+            urls.cpython-312.pyc
+            wsgi.cpython-312.pyc
+            __init__.cpython-312.pyc
+            
